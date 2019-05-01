@@ -5,6 +5,6 @@ def line (array)
   else array.each_with_index do |person, index|
     line_list << "#{index + 1}. #{person} "
   end
-  prints "The line is currently #{line_list}"
+  print "The line is currently #{line_list}"
 end
 end
