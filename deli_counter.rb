@@ -15,5 +15,6 @@ def take_a_number(array, new_cust)
 end
 
 def now_serving (array)
-
+  if array.length < 1
+    puts 
 end
