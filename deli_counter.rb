@@ -10,4 +10,6 @@ end
 line_list
 end
 
-line
+
+other_deli = ["Logan", "Avi", "Spencer"]
+line (other_deli)
