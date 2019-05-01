@@ -8,3 +8,7 @@ def line (array)
   puts "The line is currently: " + line_list.join(" ")
 end
 end
+
+def take_a_number
+
+end
