@@ -3,7 +3,7 @@ def line (array)
   if array.length < 1
     puts "The line is currently empty."
   else array.each_with_index do |person, index|
-    line_list << '#{index + 1}. #{person}'
+    line_list << "#{index + 1}. #{person}"
   end
   puts "The line is currently: #{line_list}"
 end
