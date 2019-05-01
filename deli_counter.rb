@@ -4,3 +4,5 @@ def line (array)
     put "the line is currently empty."
   else array.for each do |person, index|
     line_list << "hello #{person} you are number #{index + 1} in line."
+  end
+end
