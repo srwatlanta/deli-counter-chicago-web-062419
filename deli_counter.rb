@@ -7,7 +7,7 @@ def line (array)
   end
 
 end
-line_list
+puts line_list
 end
 
 
