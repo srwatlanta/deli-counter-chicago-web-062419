@@ -7,4 +7,5 @@ def line (array)
   end
   puts "The line is currently: #{line_list}"
 end
+line_list
 end
