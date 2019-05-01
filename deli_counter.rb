@@ -10,5 +10,5 @@ end
 end
 
 def take_a_number(array, new_cust)
-
+  array.push (new_cust)
 end
