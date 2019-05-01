@@ -13,3 +13,7 @@ def take_a_number(array, new_cust)
   array.push (new_cust)
   puts "Welcome, #{new_cust}. You are number #{array.length} in line."
 end
+
+def now_serving (array)
+
+end
