@@ -6,3 +6,4 @@ def line (array)
     line_list << "hello #{person} you are number #{index + 1} in line."
   end
 end
+end
