@@ -16,6 +16,6 @@ end
 
 def now_serving (array)
   if array.length < 1
-    puts 
+    puts
   end
 end
