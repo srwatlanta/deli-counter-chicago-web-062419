@@ -9,3 +9,5 @@ def line (array)
 end
 line_list
 end
+
+line
